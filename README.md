@@ -5,7 +5,7 @@ This is a repo for the code **RL maze solver agent** used in the talk "Reinforce
 Which contains:
 
 - [mazegen.py](./mazegen.py): A script to generate a checkerboard like maze translated from the frontend js code from [featurecrew maze gen](https://featurecrew.io/tests/maze)
-- [maze_RL_semistable.ipynb](,/maze_RL_semistable.ipynb): The simple Deep Q-Learning Network(DQN) implementation with reward function, action function, learning from experience, calculating TD target, etc. with two 2-hidden layer simple Q neutral network.
+- [maze_RL_semistable.ipynb](./maze_RL_semistable.ipynb): The simple Deep Q-Learning Network(DQN) implementation with reward function, action function, learning from experience, calculating TD target, etc. with two 2-hidden layer simple Q neutral network.
 
 
 One sample training run:
